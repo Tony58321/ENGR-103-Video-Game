@@ -5,6 +5,6 @@ This game is a 1v1 game where the first person to click their button when the LE
 
 Each player will use their button to click once they see the LEDS on the circuit board pop up. During practice mode, the user can use either button to practice.
 
-The switch will be used to go from game mode to practice mode. During game mode, there are two players, scores will be kept and a winner will be announced. During practice mode, one person will use the board to try and improve how fast they react to the lights. They will need to look at the serial monitor to track progress.
+The switch will be used to go from game mode to practice mode. During game mode, there are two players, scores will be kept and a winner will be announced. During practice mode, one person will use the board to try and improve how fast they react to the lights. They will need to look at the serial monitor to track progress. NOTE: The user can only use button A for practice mode.
 
 Outputs will include the LEDS. These will turn on when the game starts. The pixels will clear once a button is pressed. Then, lights on the winners side will blink green and the lights on the losers will be red. The speaker will play a victory song when one person has won 3 games in a row.
